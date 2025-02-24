@@ -1,0 +1,34 @@
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.AssemblyInfoInputs.cache
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.AssemblyInfo.cs
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.sourcelink.json
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\appsettings.json
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\final project asp.net.exe
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\final project asp.net.deps.json
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\final project asp.net.runtimeconfig.json
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\final project asp.net.dll
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\final project asp.net.pdb
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CP\Desktop\final project asp.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets\msbuild.final project asp.net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets\msbuild.build.final project asp.net.props
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.final project asp.net.props
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.final project asp.net.props
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\scopedcss\bundle\final project asp.net.styles.css
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final pr.A05D97B7.Up2Date
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.dll
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\refint\final project asp.net.dll
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.pdb
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\final project asp.net.genruntimeconfig.cache
+C:\Users\CP\Desktop\final project asp.net\obj\Debug\net8.0\ref\final project asp.net.dll
